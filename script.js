@@ -13,3 +13,4 @@ $('.one-movie').click(function(){
 $('#to_browse').click(() => {
   $.scrollTo($('.movie-gallery'), 1000)
 })
+
